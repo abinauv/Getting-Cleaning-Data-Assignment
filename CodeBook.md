@@ -3,7 +3,7 @@ The 'run_analysis.R' file performs the data preparation and then followed by the
 Download the dataset from the following link:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-Assign data to variables as follows:
+Assigns the data to variables as follows:
 1. features <- features.txt : 561 rows, 2 columns
 (from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ).
 2. activities <- activity_labels.txt : 6 rows, 2 columns
